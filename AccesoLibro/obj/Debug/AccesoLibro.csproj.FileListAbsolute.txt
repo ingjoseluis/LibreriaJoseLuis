@@ -1,0 +1,30 @@
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\AccesoLibro.dll.config
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\AccesoLibro.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\AccesoLibro.pdb
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\AccesoLibro\obj\Debug\AccesoLibro.csprojResolveAssemblyReference.cache
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\AccesoLibro\obj\Debug\AccesoLibro.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\AccesoLibro\obj\Debug\AccesoLibro.pdb
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\AccesoLibro.dll.config
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\AccesoLibro.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\AccesoLibro.pdb
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.SqlServer.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.SqlServer.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\obj\Debug\AccesoLibro.csprojResolveAssemblyReference.cache
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\obj\Debug\AccesoLibro.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\obj\Debug\AccesoLibro.pdb
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\AccesoLibro.dll.config
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\AccesoLibro.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\AccesoLibro.pdb
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.SqlServer.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\bin\Debug\EntityFramework.SqlServer.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\obj\Debug\AccesoLibro.csproj.CoreCompileInputs.cache
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\obj\Debug\AccesoLibro.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\AccesoLibro\obj\Debug\AccesoLibro.pdb

@@ -1,0 +1,119 @@
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\WebLibro.dll.config
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\WebLibro.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\WebLibro.pdb
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\Antlr3.Runtime.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.AspNet.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.Core.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.SqlServer.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.Web.Infrastructure.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\System.Web.Optimization.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\System.Web.Providers.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\WebGrease.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.SqlServer.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\System.Web.Providers.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.Core.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.AspNet.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\obj\Debug\WebLibro.csprojResolveAssemblyReference.cache
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\obj\Debug\WebLibro.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\obj\Debug\WebLibro.pdb
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\AccesoLibro.dll
+c:\users\adminquality\documents\visual studio 2013\Projects\LIBRERIAJOSELUIS\WebLibro\bin\AccesoLibro.pdb
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\WebLibro.dll.config
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\WebLibro.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\WebLibro.pdb
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\AccesoLibro.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Antlr3.Runtime.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\AspNet.ScriptManager.jQuery.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.AspNet.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.Core.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.SqlServer.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.ScriptManager.WebForms.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.Web.Infrastructure.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\System.Web.Optimization.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\System.Web.Providers.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\WebGrease.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\AccesoLibro.pdb
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.SqlServer.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\System.Web.Providers.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.Core.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.AspNet.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\obj\Debug\WebLibro.csprojResolveAssemblyReference.cache
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\obj\Debug\WebLibro.dll
+D:\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\obj\Debug\WebLibro.pdb
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\WebLibro.dll.config
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\WebLibro.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\WebLibro.pdb
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\AccesoLibro.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Antlr3.Runtime.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\AspNet.ScriptManager.jQuery.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.AspNet.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.Core.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.SqlServer.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.ScriptManager.WebForms.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.Web.Infrastructure.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\System.Web.Optimization.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\System.Web.Providers.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\WebGrease.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\AccesoLibro.pdb
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\AccesoLibro.dll.config
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\EntityFramework.SqlServer.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\System.Web.Providers.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.Core.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\DotNetOpenAuth.AspNet.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\obj\Debug\WebLibro.csprojResolveAssemblyReference.cache
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\obj\Debug\WebLibro.csproj.CoreCompileInputs.cache
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\obj\Debug\WebLibro.dll
+D:\PruebaTecnica\PruebaQualitycod\LIBRERIAJOSELUIS\WebLibro\obj\Debug\WebLibro.pdb
